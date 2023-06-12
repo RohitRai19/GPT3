@@ -6,7 +6,7 @@ const Navbar = () => {
   const Menu=()=>(
     <>
     <p><a href='#home'>Home</a></p>
-    <p><a href='#wgpt3'>What is GPT?</a></p>
+    <p><a href='#whatgpt3'>What is GPT?</a></p>
     <p><a href='possibility'>Open Ai</a></p>
     <p><a href='#features'>Case Studies</a></p>
     <p><a href='#blog'>Library</a></p>
