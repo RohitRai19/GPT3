@@ -120,6 +120,18 @@ cursor: pointer;
     .gpt3__navbar-menu_container-links-sign{
         display: block;
     }
+
+    .gpt3__navbar-menu_container-links-sign button{
+        background: #FF4820;
+        border: none;
+        padding: 0.3rem;
+        color: #ffffff;
+        font-weight: 600;
+        font-family: 'Manrope';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+    }
 }
 @media screen and (max-width:550px){
     
